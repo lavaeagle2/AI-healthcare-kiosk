@@ -1,0 +1,9 @@
+**requirements.txt**
+
+streamlit
+joblib
+scikit-learn
+requests
+reportlab
+SpeechRecognition
+python-dotenv

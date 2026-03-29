@@ -1,0 +1,17 @@
+## 🚀 How to Use These Files
+
+1. **Create a new folder** for your project
+2. **Copy each file** with the exact name shown (e.g., `orchastrator.py`, `app.py`, etc.)
+3. **Make sure model.pkl and encoder.pkl** are in the same folder
+4. **Edit .env** and add your OpenAI API key
+5. **Install dependencies:**
+   ```bash
+   pip install streamlit joblib scikit-learn requests reportlab python-dotenv
+   ```
+6. **Run Streamlit:**
+   ```bash
+   streamlit run app.py
+   ```
+7. **Or run CLI:**
+   ```bash
+   python main.py
